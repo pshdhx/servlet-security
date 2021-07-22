@@ -1,0 +1,3 @@
+com\pshdhx\config\ApplicationConfig.class
+com\pshdhx\config\WebConfig.class
+com\pshdhx\init\SpringApplicationInitializer.class
